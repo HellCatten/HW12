@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW12</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="spec">Специальность</string>
+    <string name="attestat">Аттестат</string>
+    <string name="add">Добавить</string>
+    <string name="attestation">Наличие аттестата</string>
+    <string name="insert_success">Запись успешно добавлена</string>
+    <string name="insert_error">При добавлении возникла ошибка</string>
+    <string name="incorrect_value">Вы ввели некорректное значение</string>
+</resources>
